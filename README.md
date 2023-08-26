@@ -10,4 +10,4 @@
 
 https://www.unknowncheats.me/forum/anti-cheat-bypass/598653-hijacking-gigabytes-overlay-window.html
 
-Credits: https://github.com/iraizo/nvidia-overlay-hijack#nvidia-overlay-hijacker (overlay)
+Credits: https://github.com/iraizo/nvidia-overlay-hijack#nvidia-overlay-hijacker (overlay.cpp & overlay.hpp)

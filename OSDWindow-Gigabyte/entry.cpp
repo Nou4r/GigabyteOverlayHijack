@@ -16,6 +16,4 @@ int main()
 	overlay->clear_scene();
 	overlay->draw_text(10, 10, "github.com/HappyCatOfficial", D2D1::ColorF(D2D1::ColorF::White));
 	overlay->end_scene();
-
-	getchar();
 }
